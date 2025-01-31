@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickerPractice</string>
+    <string name="count_of_clicks_text">Количество нажатий:</string>
+    <string name="click_me_button_text">Нажми меня!</string>
+</resources>
